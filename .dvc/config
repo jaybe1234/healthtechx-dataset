@@ -1,0 +1,5 @@
+[core]
+    remote = healthtechx-remote
+['remote "healthtechx-remote"']
+    url = gdrive://0AMYXBoTAubGZUk9PVA/healthtechx-dataset
+
